@@ -1,4 +1,5 @@
 # Basic CSS
+> A demonstration of what can be accomplished through CSS-based design.
 ## Plain HTML
 ![](images/screenshots/card_no_css.png)
 ## Adding CSS
